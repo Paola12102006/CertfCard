@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(236.85deg, #320424 27.26%, #9a34a7 96.03%);
+}
+
+#container {
+  background-color: #d899e0;
+}
+
+img {
+  border-radius: 460px;
+  max-height: 160px;
+}
+
+#perfil {
+  display: flex;
+  padding-left: 50px;
+}
+
+#titulo {
+  margin-left: 50px;
+}
+
+#titulo h1 {
+  font-size: 40px;
+}
